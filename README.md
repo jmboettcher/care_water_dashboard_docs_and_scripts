@@ -1,5 +1,5 @@
 # care_water_dashboard_docs_and_scripts
-documentation and processing scripts for CARE Water+ dashboard created for develop for good. 
+documentation and processing for CARE Water+ dashboard created for develop for good. 
 
 CARE advisor (product owner): Paul DeMerritt
 Project Manager: Leonid Basevich 
